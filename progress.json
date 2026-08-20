@@ -33,7 +33,7 @@
       "id": "tms",
       "name": "Alpha TMS",
       "blurb": "Freight TMS for dispatchers, carriers, and drivers",
-      "url": "https://tms-smoky-one.vercel.app",
+      "url": "https://tms.alphasolutions.software/",
       "repo": "TMS",
       "percent": 90,
       "status": "Live"
@@ -41,8 +41,8 @@
     {
       "id": "learn",
       "name": "Learn Dispatch",
-      "blurb": "Dispatch training platform for Alpha Academy students",
-      "url": "https://learn-dispatch.vercel.app",
+      "blurb": "Professional truck dispatcher training — modules, quizzes, certificates",
+      "url": "https://learndispatch.alphasolutions.software/",
       "repo": "Learn-Dispatch",
       "percent": 85,
       "status": "Live"
@@ -60,7 +60,7 @@
       "id": "ai",
       "name": "Alpha AI / Universe OS",
       "blurb": "Staff AI console, tools, and Universe command surface",
-      "url": "https://ai-omega-sage.vercel.app",
+      "url": "https://ai.alphasolutions.software/",
       "repo": "AI",
       "percent": 80,
       "status": "Live"
@@ -76,9 +76,9 @@
     },
     {
       "id": "freight",
-      "name": "Alpha Freight",
-      "blurb": "Carrier / freight growth tools and programs",
-      "url": "https://freight-alpha.vercel.app",
+      "name": "Alpha Freight Network",
+      "blurb": "Dispatching, compliance, and training for US trucking operations",
+      "url": "https://afn.alphasolutions.software/",
       "repo": "Freight",
       "percent": 78,
       "status": "Live"
@@ -87,7 +87,7 @@
       "id": "sales",
       "name": "AFN Sales CRM",
       "blurb": "Sales desk and freight sales operations",
-      "url": "https://afn-s.vercel.app",
+      "url": "https://freightsales.alphasolutions.software/",
       "repo": "AFN-S",
       "percent": 72,
       "status": "Building"
@@ -96,7 +96,7 @@
       "id": "pos",
       "name": "Alpha Store POS Pro",
       "blurb": "Point-of-sale for retail / store operations",
-      "url": "https://alpha-store-pos-pro.vercel.app",
+      "url": "https://posapp.alphasolutions.software/",
       "repo": "Alpha-Store-POS-PRO",
       "percent": 75,
       "status": "Building"

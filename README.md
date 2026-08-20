@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/alpha-mark.svg" alt="Alpha Solutions Services" width="96" height="96" />
+  <img src="assets/alpha-logo.png" alt="Alpha Solutions" width="160" height="160" />
 </p>
 
 <h1 align="center">Alpha Solutions Services LLC</h1>
@@ -49,7 +49,10 @@ We design and ship systems that keep real businesses moving — websites and Saa
 | **Get a quote** | [Free quote](https://www.alphasolutions.software) |
 | **Client Portal** | [portal.alphasolutions.software](https://portal.alphasolutions.software) |
 | **Software House** | [software.alphasolutions.software](https://software.alphasolutions.software) |
-| **Academy** | [academy.alphasolutions.software](https://academy.alphasolutions.software) |
+| **Alpha Freight** | [afn.alphasolutions.software](https://afn.alphasolutions.software/) |
+| **TMS** | [tms.alphasolutions.software](https://tms.alphasolutions.software/) |
+| **Learn Dispatch** | [learndispatch.alphasolutions.software](https://learndispatch.alphasolutions.software/) |
+| **Alpha AI** | [ai.alphasolutions.software](https://ai.alphasolutions.software/) |
 | **This org** | [github.com/Alpha-Solutions-Services](https://github.com/Alpha-Solutions-Services) |
 
 ---
@@ -73,14 +76,14 @@ Live Alpha surfaces our team builds and operates:
 | **Marketing** | [alphasolutions.software](https://www.alphasolutions.software) | Brand, services, portfolio, SEO |
 | **Client Portal** | [portal.alphasolutions.software](https://portal.alphasolutions.software) | Client CRM & project visibility |
 | **Software House** | [software.alphasolutions.software](https://software.alphasolutions.software) | Internal delivery OS |
-| **Alpha TMS** | [Open TMS](https://tms-smoky-one.vercel.app) | Freight transportation management |
-| **Learn Dispatch** | [Open Learn](https://learn-dispatch.vercel.app) | Dispatch training |
+| **Alpha TMS** | [tms.alphasolutions.software](https://tms.alphasolutions.software/) | Freight transportation management |
+| **Learn Dispatch** | [learndispatch.alphasolutions.software](https://learndispatch.alphasolutions.software/) | Professional truck dispatcher training |
 | **Alpha Academy** | [academy.alphasolutions.software](https://academy.alphasolutions.software) | Academy & prep programs |
-| **Alpha AI** | [Open AI console](https://ai-omega-sage.vercel.app) | Staff AI / Universe OS |
+| **Alpha AI** | [ai.alphasolutions.software](https://ai.alphasolutions.software/) | Staff AI / Universe OS |
 | **Giftify** | [giftify.alphasolutions.software](https://giftify.alphasolutions.software/) | Commerce + AI chatbot |
-| **Alpha Freight** | [Open Freight](https://freight-alpha.vercel.app) | Carrier growth tools |
-| **AFN Sales** | [Open AFN-S](https://afn-s.vercel.app) | Sales CRM |
-| **Store POS Pro** | [Open POS](https://alpha-store-pos-pro.vercel.app) | Retail point-of-sale |
+| **Alpha Freight** | [afn.alphasolutions.software](https://afn.alphasolutions.software/) | Dispatching, compliance & carrier back-office |
+| **AFN Sales** | [freightsales.alphasolutions.software](https://freightsales.alphasolutions.software/) | Freight sales CRM |
+| **Store POS Pro** | [posapp.alphasolutions.software](https://posapp.alphasolutions.software/) | Retail point-of-sale |
 
 > Private product repos live under this organization. Public collaboration and company presence start here.
 
@@ -96,14 +99,14 @@ Real delivery status across the Alpha product line. Source of truth: [`progress.
 | [Alpha Marketing Site](https://www.alphasolutions.software) | Brand, services, portfolio, and lead capture | ![95%](assets/progress/marketing.svg) | Live | [`alpha-solutions`](https://github.com/Alpha-Solutions-Services/alpha-solutions) |
 | [Client Sales Portal](https://portal.alphasolutions.software) | Client CRM — deals, contracts, projects, tickets, live milestones | ![92%](assets/progress/portal.svg) | Live · Active | [`ALPHA-Portal`](https://github.com/Alpha-Solutions-Services/ALPHA-Portal) |
 | [Software House](https://software.alphasolutions.software) | Internal delivery OS — queue, board, roles, reports, Alpha Assistant | ![88%](assets/progress/house.svg) | Live · Active | [`Software`](https://github.com/Alpha-Solutions-Services/Software) |
-| [Alpha TMS](https://tms-smoky-one.vercel.app) | Freight TMS for dispatchers, carriers, and drivers | ![90%](assets/progress/tms.svg) | Live | [`TMS`](https://github.com/Alpha-Solutions-Services/TMS) |
-| [Learn Dispatch](https://learn-dispatch.vercel.app) | Dispatch training platform for Alpha Academy students | ![85%](assets/progress/learn.svg) | Live | [`Learn-Dispatch`](https://github.com/Alpha-Solutions-Services/Learn-Dispatch) |
+| [Alpha TMS](https://tms.alphasolutions.software/) | Freight TMS for dispatchers, carriers, and drivers | ![90%](assets/progress/tms.svg) | Live | [`TMS`](https://github.com/Alpha-Solutions-Services/TMS) |
+| [Learn Dispatch](https://learndispatch.alphasolutions.software/) | Professional truck dispatcher training — modules, quizzes, certificates | ![85%](assets/progress/learn.svg) | Live | [`Learn-Dispatch`](https://github.com/Alpha-Solutions-Services/Learn-Dispatch) |
 | [Alpha Academy](https://academy.alphasolutions.software) | Academy marketing and learning surfaces | ![82%](assets/progress/academy.svg) | Live | [`Alpha-Academy`](https://github.com/Alpha-Solutions-Services/Alpha-Academy) |
-| [Alpha AI / Universe OS](https://ai-omega-sage.vercel.app) | Staff AI console, tools, and Universe command surface | ![80%](assets/progress/ai.svg) | Live | [`AI`](https://github.com/Alpha-Solutions-Services/AI) |
+| [Alpha AI / Universe OS](https://ai.alphasolutions.software/) | Staff AI console, tools, and Universe command surface | ![80%](assets/progress/ai.svg) | Live | [`AI`](https://github.com/Alpha-Solutions-Services/AI) |
 | [Giftify](https://giftify.alphasolutions.software/) | E-commerce + AI chatbot commerce stack | ![85%](assets/progress/giftify.svg) | Live | [`Giftify`](https://github.com/Alpha-Solutions-Services/Giftify) |
-| [Alpha Freight](https://freight-alpha.vercel.app) | Carrier / freight growth tools and programs | ![78%](assets/progress/freight.svg) | Live | [`Freight`](https://github.com/Alpha-Solutions-Services/Freight) |
-| [AFN Sales CRM](https://afn-s.vercel.app) | Sales desk and freight sales operations | ![72%](assets/progress/sales.svg) | Building | [`AFN-S`](https://github.com/Alpha-Solutions-Services/AFN-S) |
-| [Alpha Store POS Pro](https://alpha-store-pos-pro.vercel.app) | Point-of-sale for retail / store operations | ![75%](assets/progress/pos.svg) | Building | [`Alpha-Store-POS-PRO`](https://github.com/Alpha-Solutions-Services/Alpha-Store-POS-PRO) |
+| [Alpha Freight Network](https://afn.alphasolutions.software/) | Dispatching, compliance, and training for US trucking operations | ![78%](assets/progress/freight.svg) | Live | [`Freight`](https://github.com/Alpha-Solutions-Services/Freight) |
+| [AFN Sales CRM](https://freightsales.alphasolutions.software/) | Sales desk and freight sales operations | ![72%](assets/progress/sales.svg) | Building | [`AFN-S`](https://github.com/Alpha-Solutions-Services/AFN-S) |
+| [Alpha Store POS Pro](https://posapp.alphasolutions.software/) | Point-of-sale for retail / store operations | ![75%](assets/progress/pos.svg) | Building | [`Alpha-Store-POS-PRO`](https://github.com/Alpha-Solutions-Services/Alpha-Store-POS-PRO) |
 | **Accounts** | Internal accounting and finance tooling | ![58%](assets/progress/accounts.svg) | In progress | [`Accounts`](https://github.com/Alpha-Solutions-Services/Accounts) |
 | **Alpha Freight Extension** | Browser extension for freight workflows | ![55%](assets/progress/extension.svg) | In progress | [`Alpha-Freight-Extension`](https://github.com/Alpha-Solutions-Services/Alpha-Freight-Extension) |
 | [Sanity Studio](https://www.alphasolutions.software) | CMS for alphasolutions.software content | ![90%](assets/progress/studio.svg) | Live | [`studio-alpha-solutions-services-llc`](https://github.com/Alpha-Solutions-Services/studio-alpha-solutions-services-llc) |
