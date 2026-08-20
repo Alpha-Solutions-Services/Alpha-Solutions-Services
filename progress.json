@@ -1,0 +1,132 @@
+{
+  "$schema_comment": "Source of truth for README progress bars. Update percent (0-100) and status when shipping. Run: node scripts/render-progress.mjs",
+  "updated": "2026-08-20",
+  "products": [
+    {
+      "id": "marketing",
+      "name": "Alpha Marketing Site",
+      "blurb": "Brand, services, portfolio, and lead capture",
+      "url": "https://www.alphasolutions.software",
+      "repo": "alpha-solutions",
+      "percent": 95,
+      "status": "Live"
+    },
+    {
+      "id": "portal",
+      "name": "Client Sales Portal",
+      "blurb": "Client CRM — deals, contracts, projects, tickets, live milestones",
+      "url": "https://portal.alphasolutions.software",
+      "repo": "ALPHA-Portal",
+      "percent": 92,
+      "status": "Live · Active"
+    },
+    {
+      "id": "house",
+      "name": "Software House",
+      "blurb": "Internal delivery OS — queue, board, roles, reports, Alpha Assistant",
+      "url": "https://software.alphasolutions.software",
+      "repo": "Software",
+      "percent": 88,
+      "status": "Live · Active"
+    },
+    {
+      "id": "tms",
+      "name": "Alpha TMS",
+      "blurb": "Freight TMS for dispatchers, carriers, and drivers",
+      "url": "https://tms-smoky-one.vercel.app",
+      "repo": "TMS",
+      "percent": 90,
+      "status": "Live"
+    },
+    {
+      "id": "learn",
+      "name": "Learn Dispatch",
+      "blurb": "Dispatch training platform for Alpha Academy students",
+      "url": "https://learn-dispatch.vercel.app",
+      "repo": "Learn-Dispatch",
+      "percent": 85,
+      "status": "Live"
+    },
+    {
+      "id": "academy",
+      "name": "Alpha Academy",
+      "blurb": "Academy marketing and learning surfaces",
+      "url": "https://academy.alphasolutions.software",
+      "repo": "Alpha-Academy",
+      "percent": 82,
+      "status": "Live"
+    },
+    {
+      "id": "ai",
+      "name": "Alpha AI / Universe OS",
+      "blurb": "Staff AI console, tools, and Universe command surface",
+      "url": "https://ai-omega-sage.vercel.app",
+      "repo": "AI",
+      "percent": 80,
+      "status": "Live"
+    },
+    {
+      "id": "giftify",
+      "name": "Giftify",
+      "blurb": "E-commerce + AI chatbot commerce stack",
+      "url": "https://giftify.alphasolutions.software/",
+      "repo": "Giftify",
+      "percent": 85,
+      "status": "Live"
+    },
+    {
+      "id": "freight",
+      "name": "Alpha Freight",
+      "blurb": "Carrier / freight growth tools and programs",
+      "url": "https://freight-alpha.vercel.app",
+      "repo": "Freight",
+      "percent": 78,
+      "status": "Live"
+    },
+    {
+      "id": "sales",
+      "name": "AFN Sales CRM",
+      "blurb": "Sales desk and freight sales operations",
+      "url": "https://afn-s.vercel.app",
+      "repo": "AFN-S",
+      "percent": 72,
+      "status": "Building"
+    },
+    {
+      "id": "pos",
+      "name": "Alpha Store POS Pro",
+      "blurb": "Point-of-sale for retail / store operations",
+      "url": "https://alpha-store-pos-pro.vercel.app",
+      "repo": "Alpha-Store-POS-PRO",
+      "percent": 75,
+      "status": "Building"
+    },
+    {
+      "id": "accounts",
+      "name": "Accounts",
+      "blurb": "Internal accounting and finance tooling",
+      "url": null,
+      "repo": "Accounts",
+      "percent": 58,
+      "status": "In progress"
+    },
+    {
+      "id": "extension",
+      "name": "Alpha Freight Extension",
+      "blurb": "Browser extension for freight workflows",
+      "url": null,
+      "repo": "Alpha-Freight-Extension",
+      "percent": 55,
+      "status": "In progress"
+    },
+    {
+      "id": "studio",
+      "name": "Sanity Studio",
+      "blurb": "CMS for alphasolutions.software content",
+      "url": "https://www.alphasolutions.software",
+      "repo": "studio-alpha-solutions-services-llc",
+      "percent": 90,
+      "status": "Live"
+    }
+  ]
+}
