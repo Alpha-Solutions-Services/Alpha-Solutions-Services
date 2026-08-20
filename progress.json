@@ -23,7 +23,7 @@
     {
       "id": "house",
       "name": "Software House",
-      "blurb": "Internal delivery OS — queue, board, roles, reports, Alpha Assistant",
+      "blurb": "Internal delivery OS — queue, board, roles, product progress tracker, Alpha Assistant",
       "url": "https://software.alphasolutions.software",
       "repo": "Software",
       "percent": 88,
