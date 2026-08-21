@@ -92,7 +92,7 @@ Live Alpha surfaces our team builds and operates:
 <!-- PROGRESS:START -->
 ## Product progress
 
-Real delivery status across the Alpha product line. Source of truth: [`progress.json`](./progress.json) (last updated **2026-08-20**).
+Real delivery status across the Alpha product line. Source of truth: [`progress.json`](./progress.json) (last updated **2026-08-21**).
 
 | Product | What it is | Progress | Status | Repo |
 |---------|------------|----------|--------|------|
@@ -101,14 +101,14 @@ Real delivery status across the Alpha product line. Source of truth: [`progress.
 | [Software House](https://software.alphasolutions.software) | Internal delivery OS — queue, board, roles, product progress tracker, Alpha Assistant | ![92%](assets/progress/house.svg) | Live · Active | [`Software`](https://github.com/Alpha-Solutions-Services/Software) |
 | [Alpha TMS](https://tms.alphasolutions.software/) | Freight TMS for dispatchers, carriers, and drivers | ![90%](assets/progress/tms.svg) | Live | [`TMS`](https://github.com/Alpha-Solutions-Services/TMS) |
 | [Learn Dispatch](https://learndispatch.alphasolutions.software/) | Professional truck dispatcher training — modules, quizzes, certificates | ![85%](assets/progress/learn.svg) | Live | [`Learn-Dispatch`](https://github.com/Alpha-Solutions-Services/Learn-Dispatch) |
-| [Alpha Academy](https://academy.alphasolutions.software) | Academy marketing and learning surfaces | ![82%](assets/progress/academy.svg) | Live | [`Alpha-Academy`](https://github.com/Alpha-Solutions-Services/Alpha-Academy) |
-| [Alpha AI / Universe OS](https://ai.alphasolutions.software/) | Staff AI console, tools, and Universe command surface | ![80%](assets/progress/ai.svg) | Live | [`AI`](https://github.com/Alpha-Solutions-Services/AI) |
-| [Giftify](https://giftify.alphasolutions.software/) | E-commerce + AI chatbot commerce stack | ![85%](assets/progress/giftify.svg) | Live | [`Giftify`](https://github.com/Alpha-Solutions-Services/Giftify) |
-| [Alpha Freight Network](https://afn.alphasolutions.software/) | Dispatching, compliance, and training for US trucking operations | ![78%](assets/progress/freight.svg) | Live | [`Freight`](https://github.com/Alpha-Solutions-Services/Freight) |
-| [AFN Sales CRM](https://freightsales.alphasolutions.software/) | Sales desk and freight sales operations | ![72%](assets/progress/sales.svg) | Building | [`AFN-S`](https://github.com/Alpha-Solutions-Services/AFN-S) |
-| [Alpha Store POS Pro](https://posapp.alphasolutions.software/) | Point-of-sale for retail / store operations | ![75%](assets/progress/pos.svg) | Building | [`Alpha-Store-POS-PRO`](https://github.com/Alpha-Solutions-Services/Alpha-Store-POS-PRO) |
-| **Accounts** | Internal accounting and finance tooling | ![58%](assets/progress/accounts.svg) | In progress | [`Accounts`](https://github.com/Alpha-Solutions-Services/Accounts) |
-| **Alpha Freight Extension** | Browser extension for freight workflows | ![55%](assets/progress/extension.svg) | In progress | [`Alpha-Freight-Extension`](https://github.com/Alpha-Solutions-Services/Alpha-Freight-Extension) |
+| [Alpha Academy](https://academy.alphasolutions.software) | Academy marketing and learning surfaces | ![70%](assets/progress/academy.svg) | Live | [`Alpha-Academy`](https://github.com/Alpha-Solutions-Services/Alpha-Academy) |
+| [Alpha AI / Universe OS](https://ai.alphasolutions.software/) | Staff AI console, tools, and Universe command surface | ![51%](assets/progress/ai.svg) | Live | [`AI`](https://github.com/Alpha-Solutions-Services/AI) |
+| [Giftify](https://giftify.alphasolutions.software/) | E-commerce + AI chatbot commerce stack | ![50%](assets/progress/giftify.svg) | Live | [`Giftify`](https://github.com/Alpha-Solutions-Services/Giftify) |
+| [Alpha Freight Network](https://afn.alphasolutions.software/) | Dispatching, compliance, and training for US trucking operations | ![87%](assets/progress/freight.svg) | Live | [`Freight`](https://github.com/Alpha-Solutions-Services/Freight) |
+| [AFN Sales CRM](https://freightsales.alphasolutions.software/) | Sales desk and freight sales operations | ![82%](assets/progress/sales.svg) | Building | [`AFN-S`](https://github.com/Alpha-Solutions-Services/AFN-S) |
+| [Alpha Store POS Pro](https://posapp.alphasolutions.software/) | Point-of-sale for retail / store operations | ![90%](assets/progress/pos.svg) | Building | [`Alpha-Store-POS-PRO`](https://github.com/Alpha-Solutions-Services/Alpha-Store-POS-PRO) |
+| **Accounts** | Internal accounting and finance tooling | ![42%](assets/progress/accounts.svg) | In progress | [`Accounts`](https://github.com/Alpha-Solutions-Services/Accounts) |
+| **Alpha Freight Extension** | Browser extension for freight workflows | ![63%](assets/progress/extension.svg) | In progress | [`Alpha-Freight-Extension`](https://github.com/Alpha-Solutions-Services/Alpha-Freight-Extension) |
 | [Sanity Studio](https://www.alphasolutions.software) | CMS for alphasolutions.software content | ![90%](assets/progress/studio.svg) | Live | [`studio-alpha-solutions-services-llc`](https://github.com/Alpha-Solutions-Services/studio-alpha-solutions-services-llc) |
 
 > Update a percentage in `progress.json`, then run `node scripts/render-progress.mjs` to refresh the bars and this table.

@@ -1,132 +1,132 @@
 {
   "$schema_comment": "Source of truth for README progress bars. Update percent (0-100) and status when shipping. Run: node scripts/render-progress.mjs",
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "products": [
     {
       "id": "marketing",
-      "name": "Alpha Marketing Site",
-      "blurb": "Brand, services, portfolio, and lead capture",
       "url": "https://www.alphasolutions.software",
+      "name": "Alpha Marketing Site",
       "repo": "alpha-solutions",
-      "percent": 95,
-      "status": "Live"
+      "blurb": "Brand, services, portfolio, and lead capture",
+      "status": "Live",
+      "percent": 95
     },
     {
       "id": "portal",
-      "name": "Client Sales Portal",
-      "blurb": "Client CRM — deals, contracts, projects, tickets, live milestones",
       "url": "https://portal.alphasolutions.software",
+      "name": "Client Sales Portal",
       "repo": "ALPHA-Portal",
-      "percent": 92,
-      "status": "Live · Active"
+      "blurb": "Client CRM — deals, contracts, projects, tickets, live milestones",
+      "status": "Live · Active",
+      "percent": 92
     },
     {
       "id": "house",
-      "name": "Software House",
-      "blurb": "Internal delivery OS — queue, board, roles, product progress tracker, Alpha Assistant",
       "url": "https://software.alphasolutions.software",
+      "name": "Software House",
       "repo": "Software",
-      "percent": 92,
-      "status": "Live · Active"
+      "blurb": "Internal delivery OS — queue, board, roles, product progress tracker, Alpha Assistant",
+      "status": "Live · Active",
+      "percent": 92
     },
     {
       "id": "tms",
-      "name": "Alpha TMS",
-      "blurb": "Freight TMS for dispatchers, carriers, and drivers",
       "url": "https://tms.alphasolutions.software/",
+      "name": "Alpha TMS",
       "repo": "TMS",
-      "percent": 90,
-      "status": "Live"
+      "blurb": "Freight TMS for dispatchers, carriers, and drivers",
+      "status": "Live",
+      "percent": 90
     },
     {
       "id": "learn",
-      "name": "Learn Dispatch",
-      "blurb": "Professional truck dispatcher training — modules, quizzes, certificates",
       "url": "https://learndispatch.alphasolutions.software/",
+      "name": "Learn Dispatch",
       "repo": "Learn-Dispatch",
-      "percent": 85,
-      "status": "Live"
+      "blurb": "Professional truck dispatcher training — modules, quizzes, certificates",
+      "status": "Live",
+      "percent": 85
     },
     {
       "id": "academy",
-      "name": "Alpha Academy",
-      "blurb": "Academy marketing and learning surfaces",
       "url": "https://academy.alphasolutions.software",
+      "name": "Alpha Academy",
       "repo": "Alpha-Academy",
-      "percent": 82,
-      "status": "Live"
+      "blurb": "Academy marketing and learning surfaces",
+      "status": "Live",
+      "percent": 70
     },
     {
       "id": "ai",
-      "name": "Alpha AI / Universe OS",
-      "blurb": "Staff AI console, tools, and Universe command surface",
       "url": "https://ai.alphasolutions.software/",
+      "name": "Alpha AI / Universe OS",
       "repo": "AI",
-      "percent": 80,
-      "status": "Live"
+      "blurb": "Staff AI console, tools, and Universe command surface",
+      "status": "Live",
+      "percent": 51
     },
     {
       "id": "giftify",
-      "name": "Giftify",
-      "blurb": "E-commerce + AI chatbot commerce stack",
       "url": "https://giftify.alphasolutions.software/",
+      "name": "Giftify",
       "repo": "Giftify",
-      "percent": 85,
-      "status": "Live"
+      "blurb": "E-commerce + AI chatbot commerce stack",
+      "status": "Live",
+      "percent": 50
     },
     {
       "id": "freight",
-      "name": "Alpha Freight Network",
-      "blurb": "Dispatching, compliance, and training for US trucking operations",
       "url": "https://afn.alphasolutions.software/",
+      "name": "Alpha Freight Network",
       "repo": "Freight",
-      "percent": 78,
-      "status": "Live"
+      "blurb": "Dispatching, compliance, and training for US trucking operations",
+      "status": "Live",
+      "percent": 87
     },
     {
       "id": "sales",
-      "name": "AFN Sales CRM",
-      "blurb": "Sales desk and freight sales operations",
       "url": "https://freightsales.alphasolutions.software/",
+      "name": "AFN Sales CRM",
       "repo": "AFN-S",
-      "percent": 72,
-      "status": "Building"
+      "blurb": "Sales desk and freight sales operations",
+      "status": "Building",
+      "percent": 82
     },
     {
       "id": "pos",
-      "name": "Alpha Store POS Pro",
-      "blurb": "Point-of-sale for retail / store operations",
       "url": "https://posapp.alphasolutions.software/",
+      "name": "Alpha Store POS Pro",
       "repo": "Alpha-Store-POS-PRO",
-      "percent": 75,
-      "status": "Building"
+      "blurb": "Point-of-sale for retail / store operations",
+      "status": "Building",
+      "percent": 90
     },
     {
       "id": "accounts",
-      "name": "Accounts",
-      "blurb": "Internal accounting and finance tooling",
       "url": null,
+      "name": "Accounts",
       "repo": "Accounts",
-      "percent": 58,
-      "status": "In progress"
+      "blurb": "Internal accounting and finance tooling",
+      "status": "In progress",
+      "percent": 42
     },
     {
       "id": "extension",
-      "name": "Alpha Freight Extension",
-      "blurb": "Browser extension for freight workflows",
       "url": null,
+      "name": "Alpha Freight Extension",
       "repo": "Alpha-Freight-Extension",
-      "percent": 55,
-      "status": "In progress"
+      "blurb": "Browser extension for freight workflows",
+      "status": "In progress",
+      "percent": 63
     },
     {
       "id": "studio",
-      "name": "Sanity Studio",
-      "blurb": "CMS for alphasolutions.software content",
       "url": "https://www.alphasolutions.software",
+      "name": "Sanity Studio",
       "repo": "studio-alpha-solutions-services-llc",
-      "percent": 90,
-      "status": "Live"
+      "blurb": "CMS for alphasolutions.software content",
+      "status": "Live",
+      "percent": 90
     }
   ]
 }
